@@ -1,4 +1,4 @@
-# Yahboom sensor kit for Raspberry Pi Pico(Get Started with MicroPython and RP2040)
+# Yahboom sensor kit for Raspberry Pi Pico 2(Get Started with MicroPython and RP2350)
 ![](https://github.com/YahboomTechnology/Pico-sensor-kit/blob/master/RaspberryPi-Pico2_Sensor_Kit.jpg)
 # Introduction
 Yahboom Pico sensor kit is developed on the Raspberry Pi Pico 2. It contains 21 sensor modules and an expansion board tailored for the Raspberry Pi Pico 2. We use MicroPython as the programming language to create 31 learning courses. Starting with some simple LED projects and then moving on to more complicated projects using different modules and sensors, this kit aims to teach users about basic electronics theory, physical computing and how to use Raspberry Pi Pico. This kit is perfect for electronics hobbyists and also for use in schools!
