@@ -8,9 +8,6 @@ Yahboom Pico sensor kit is developed on the Raspberry Pi Pico 2. It contains 21 
 * MicroPython programming suitable for beginners.
 * Provided Raspberry Pi Pico 2 beginners and makers with the easiest experience of learning and playing with the Raspberry Pi Pico 2 platform.
 
-# Required Best Buy Links
-[Click here](https://category.yahboom.net/products/pico-sensor-kit)
-
 # Please Contact Us
 If you have any problem when using our robot after checking the tutorial, please contact us.
 
